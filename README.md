@@ -320,3 +320,12 @@ git push origin feature/your-feature
 ---
 
 *InsightAI — Turn your data into decisions.*
+
+
+## 🚀 Live Demo
+
+Try the deployed **InsightAI — AI-Powered Data Analytics Chatbot**:
+
+👉 [**Open InsightAI Chatbot**](https://insightai-ft5wqqi7hxectrfnudytky.streamlit.app/)
+
+Upload your CSV or Excel dataset and explore data insights, visualizations, and AI-powered analytics.
