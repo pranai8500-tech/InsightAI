@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Secrets
+.streamlit/secrets.toml
+.env
+.env.*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.kilo/
+
+# Data
+data/
+uploads/
+*.csv
+*.xlsx
+*.xls
+
+# Git
+.git/
+.gitignore
+
+# Docs
+README.md
+
+# Tests
+tests/
+
+# Deployment configs for other platforms
+render.yaml
+runtime.txt
